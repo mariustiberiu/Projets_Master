@@ -1,0 +1,27 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Bases de données locales
+*.db
+
+# Fichiers JSON ou CSV générés
+*.json
+*.csv
+
+# VSCode / IDE
+.vscode/
+.idea/
